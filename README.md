@@ -1,5 +1,5 @@
-# Python Virtual Environment (Venv) 
-### Python: Working in a Virtual Environment (Venv) on MAC
+# Python Virtual Environment (virtualenv) 
+### Python: Working in a Virtual Environment on MAC
 
 <br>
 
