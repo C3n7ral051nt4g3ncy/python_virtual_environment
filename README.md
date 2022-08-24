@@ -126,7 +126,7 @@ You now have a much higher success rate with your OSINT Python tools and less ch
 
 
 # Deactivation 
-To Deactivate and return to the default sys environment, the command is KISS, I bet you can guess what the command is right?
+To Deactivate and return to the default sys environment, the command is KISS, I bet you can guess what the command is right? 🤔
 
 ```
 $ deactivate
