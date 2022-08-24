@@ -104,7 +104,6 @@ $ virtualenv --version
 
 Make sure Pip is up to date:
 
-Make sure Pip is up to date:
 ```
 $ python3 -m pip install --upgrade pip
 ```
