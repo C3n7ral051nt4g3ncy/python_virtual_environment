@@ -122,7 +122,7 @@ $ source venv/bin/activate
 
 # All is now ready for take-off 🚀
 Success! ✅, your Virtual Environment has been created and is now activated, you can make the checks with the check commands given above, now install your python OSINT tools (git clone) , dependencies, requirements, libs etc..
-You now have a much higher success rate with your OSINT Python tools and less chance of having to open an issue on Github , most of the issues that OSINT Analysts have is due to a lack of knowledge with Python, they keep adding dozens and dozens of tools on top of each other without isolating them, so the tools all conflict with each other, thus, creating a big messy salad.
+You now have a much higher success rate with your OSINT Python tools and less chance of having to open an issue on Github , most of the issues that OSINT Analysts have is due to a lack of knowledge with Python, they keep adding dozens and dozens of tools on top of each other without isolating them, so the tools all conflict with each other, thus, creating a big messy salad of packages/libs all conflicting with one another. 
 
 
 # Deactivation 
