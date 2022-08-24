@@ -80,7 +80,7 @@ $ python --version
 
 <img width="333" src="https://user-images.githubusercontent.com/104733166/186422952-5ebba067-43e5-4449-bf33-e2517b6a4da5.png">
 
-Let's check if everything is working correctly with 1 commmand:
+Let's check if everything is working correctly with one commmand:
 
 ```
 $ pip list
@@ -92,7 +92,7 @@ This is an example I am using with the OSINT python tool called [Twayback](https
 
 <img width="333" alt="Screen Shot 2022-08-24 at 15 01 40" src="https://user-images.githubusercontent.com/104733166/186425943-3b5ba95b-8235-4f5e-8846-63aa43c3d761.png">
 
-You may want to check the version if virtualenv:
+You may want to check the version of virtualenv:
 
 <br>
 
