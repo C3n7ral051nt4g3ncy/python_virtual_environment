@@ -92,7 +92,7 @@ This is an example I am using with the OSINT python tool called [Twayback](https
 
 <img width="333" alt="Screen Shot 2022-08-24 at 15 01 40" src="https://user-images.githubusercontent.com/104733166/186425943-3b5ba95b-8235-4f5e-8846-63aa43c3d761.png">
 
-You may want to check the version of virtualenv:
+You may want to check the current version of virtualenv:
 
 <br>
 
