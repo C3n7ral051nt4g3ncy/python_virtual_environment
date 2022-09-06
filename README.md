@@ -1,5 +1,5 @@
 # Python Virtual Environment (virtualenv) 
-### Python 🐍 : Working in a Virtual Environment (macOS)
+### Python 🐍 : Working in a Virtual Environment - macOS
 
 <br>
 
