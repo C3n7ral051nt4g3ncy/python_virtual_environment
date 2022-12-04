@@ -134,8 +134,8 @@ $ deactivate
 
 # To go back to your VENV (Virtual Environment)
 
-1. cd {directory}
-2. source {name of virtual environment}/bin/activate
+1. ```cd {directory}```
+2. ```source {name of virtual environment}/bin/activate```
 
 Simple as that ! 
 
