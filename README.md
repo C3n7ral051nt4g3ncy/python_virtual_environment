@@ -132,5 +132,11 @@ To Deactivate and return to the default sys environment, the command is KISS, I 
 $ deactivate
 ```
 
-Enjoy using your Python 🐍 Virtual Environment ! 
+# To go back to your VENV (Virtual Environment)
 
+1. cd {directory}
+2. source {name of virtual environment}/bin/activate
+
+Simple as that ! 
+
+Enjoy using your Python 🐍 Virtual Environment ! 
